@@ -1,4 +1,4 @@
-#Multi-PRIDE Task at Evalita 2026
+# Multi-PRIDE Task at Evalita 2026
 
 Welcome the GitHub for the Multi-PRIDE Task at Evalita 2026 for detecting reappropriation of slurs in text.
 
